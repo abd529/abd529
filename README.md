@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abd529 you may call me Abdullah :)
+- 👀 I’m interested in algorithms, solving problems and building applications
+- 🌱 I’m currently learning and working on Cross Platform Mobile App Development. 
+- 💞️ I’m looking to collaborate on Flutter Projects and Applications.
+- 📫 How to reach me? Email me at abdullahayaz529@gmail.com
